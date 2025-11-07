@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phyllanthus-emblica-phyllanthaceae/","tags":["MedicinalHerbs","PainInTheBum","Taxonomy"]}
+{"dg-publish":true,"permalink":"/phyllanthus-emblica-phyllanthaceae/","tags":["MedicinalHerbs","PainInTheBum","Taxonomy","blogs"]}
 ---
 
 ![](https://static.wixstatic.com/media/eb852d_3810797207a94f1084577c72cd85859a~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/eb852d_3810797207a94f1084577c72cd85859a~mv2.png) 

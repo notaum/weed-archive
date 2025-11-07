@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grewia-flavescens-malvaceae-donkey-berry/","tags":["MedicinalHerbs","WeedsThatHeal","Taxonomy","Fever","PainInTheBum"]}
+{"dg-publish":true,"permalink":"/grewia-flavescens-malvaceae-donkey-berry/","tags":["MedicinalHerbs","WeedsThatHeal","Taxonomy","Fever","PainInTheBum","blogs"]}
 ---
 
 ![](https://static.wixstatic.com/media/eb852d_ddcef23027d1417697d9c0052249dc8e~mv2.jpg/v1/fill/w_740,h_500,fp_0.50_0.50,q_90/eb852d_ddcef23027d1417697d9c0052249dc8e~mv2.webp)
